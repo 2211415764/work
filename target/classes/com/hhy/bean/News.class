@@ -1,0 +1,20 @@
+Êþº¾   3 M
+  =	  >	  ?
+ @ A	  B	  C	  D	  E	  F	  G H I J id Ljava/lang/Integer; section Ljava/lang/String; href pid showType summary imgSrc artical serialVersionUID J ConstantValue        <init> ()V Code LineNumberTable LocalVariableTable this Lcom/hhy/bean/News; getId ()Ljava/lang/Integer; setId (Ljava/lang/Integer;)V 
+getSection ()Ljava/lang/String; 
+setSection (Ljava/lang/String;)V StackMapTable H K getHref setHref getPid setPid getShowType setShowType 
+getSummary 
+setSummary 	getImgSrc 	setImgSrc 
+getArtical 
+setArtical 
+SourceFile 	News.java       K L )             com/hhy/bean/News java/lang/Object java/io/Serializable java/lang/String trim !     	                                                          /     *? ?             !        " #    $ %     /     *? ?             !        " #    & '     >     *+? ?        
+       !        " #          ( )     /     *? ?            ! !        " #    * +     h     *+? ? +? ? ?        
+    %  & !        " #         ,    I -ÿ   - .  - .  / )     /     *? ?            ) !        " #    0 +     h     *+? ? +? ? ?        
+    -  . !        " #         ,    I -ÿ   - .  - .  1 %     /     *? ?            1 !        " #    2 '     >     *+? ?        
+    5  6 !        " #          3 )     /     *? ?            9 !        " #    4 +     h     *+? ? +? ? ?        
+    =  > !        " #         ,    I -ÿ   - .  - .  5 )     /     *? ?            A !        " #    6 +     h     *+? ? +? ? ?        
+    E  F !        " #         ,    I -ÿ   - .  - .  7 )     /     *? 	?            I !        " #    8 +     h     *+? ? +? ? 	?        
+    M  N !        " #         ,    I -ÿ   - .  - .  9 )     /     *? 
+?            Q !        " #    : +     h     *+? ? +? ? 
+?        
+    U  V !        " #         ,    I -ÿ   - .  - .  ;    <

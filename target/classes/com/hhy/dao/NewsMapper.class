@@ -1,0 +1,7 @@
+Êþº¾   3 # ! " countByExample (Lcom/hhy/bean/NewsExample;)J deleteByExample (Lcom/hhy/bean/NewsExample;)I deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcom/hhy/bean/News;)I insertSelective selectByExampleWithBLOBs ,(Lcom/hhy/bean/NewsExample;)Ljava/util/List; 	Signature A(Lcom/hhy/bean/NewsExample;)Ljava/util/List<Lcom/hhy/bean/News;>; selectByExample selectByPrimaryKey ((Ljava/lang/Integer;)Lcom/hhy/bean/News; updateByExampleSelective 0(Lcom/hhy/bean/News;Lcom/hhy/bean/NewsExample;)I "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value record example updateByExampleWithBLOBs updateByExample updateByPrimaryKeySelective updateByPrimaryKeyWithBLOBs updateByPrimaryKey 
+SourceFile NewsMapper.java com/hhy/dao/NewsMapper java/lang/Object                    	 
+    
+                                 s     s            s     s            s     s   
+    
+    
+         

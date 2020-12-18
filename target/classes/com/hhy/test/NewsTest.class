@@ -1,0 +1,9 @@
+Êþº¾   3 &
+  	  
+    ! " 
+newsMapper Lcom/hhy/dao/NewsMapper; RuntimeVisibleAnnotations 8Lorg/springframework/beans/factory/annotation/Autowired; newsService Lcom/hhy/service/NewsService; <init> ()V Code LineNumberTable LocalVariableTable this Lcom/hhy/test/NewsTest; testGet Lorg/junit/Test; 
+SourceFile NewsTest.java Lorg/junit/runner/RunWith; value ALorg/springframework/test/context/junit4/SpringJUnit4ClassRunner; 7Lorg/springframework/test/context/ContextConfiguration; 	locations classpath:application.xml   
+  # $ % com/hhy/test/NewsTest java/lang/Object com/hhy/service/NewsService 
+getColumns ()Ljava/util/Map; !                	     
+        	           /     *? ?                               7     	*? ? W?       
+              	                          c    [ s 
